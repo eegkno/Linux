@@ -1,0 +1,5 @@
+Blueberries   200
+Eggfruit   50
+Apples   150
+Grapefruit   400
+Kiwi   100
